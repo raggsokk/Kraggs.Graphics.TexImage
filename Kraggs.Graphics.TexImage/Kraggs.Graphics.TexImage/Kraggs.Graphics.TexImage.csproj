@@ -41,6 +41,7 @@
     <Compile Include="Enums\GLIFormat.cs" />
     <Compile Include="Enums\GLIInternalFormat.cs" />
     <Compile Include="Enums\GLITypeFormat.cs" />
+    <Compile Include="GLIDesc\GLIFormatDesc.cs" />
     <Compile Include="TexImage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
